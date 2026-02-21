@@ -1,4 +1,4 @@
-AI was used for help debugging
+AI was used for debugging help
 
 # Seattle SNAP Retailer Dashboard
 
