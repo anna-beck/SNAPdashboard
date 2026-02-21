@@ -3,7 +3,7 @@ AI was used for debugging help
 # Seattle SNAP Retailer Dashboard
 
 ## Live Demo
-<https://[anna-beck].github.io/[SNAPdashboard]/>
+<https://anna-beck.github.io/SNAPdashboard/>
 
 
 ---
